@@ -55,7 +55,7 @@ const result = await page.evaluate(() => {
     if (mp3Match2) return { mp3: mp3Match2[0].slice(1, -1), title: episodeTitle };
   }
 
-  return { mp3: null, image: null, title: 'Najnovija' };
+  return { mp3: null, title: 'Najnovija' };
 });
 
 console.log('🎵 MP3:', result.mp3);
