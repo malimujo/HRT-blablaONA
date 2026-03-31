@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://api.hrt.hr/media/aa/5c/blablaona-20251107151149.webp" group-title="Slušaonica",blablaONA 26.03.2026. 26.03. 13:20
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/malimujo/HRT-blablaONA/main/blablaona.png" group-title="Slušaonica",blablaONA 26.03.2026. 26.03. 13:20
 https://api.hrt.hr/media/b9/b2/20260326-blablaona-37395101-20260326132058.mp3
